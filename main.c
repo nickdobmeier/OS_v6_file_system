@@ -1,7 +1,6 @@
 // Nicholas Dobmeier
-// njd170130
 
-#include <stdio.h>              // necessary header files
+#include <stdio.h>
 #include <stdlib.h> // lseek()
 #include <string.h>
 #include <unistd.h> // read()
