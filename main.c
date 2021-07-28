@@ -57,7 +57,6 @@ char** strTokens;               // global so that can properly FREE() data in fr
 int numTokens = 0;
 
 
-// prototypes
 bool getStringFromUser(char filename[]);
 void delimitFilePath(char* fileToFind);
 bool isDirectory(unsigned short flagShort);
